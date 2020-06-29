@@ -1,0 +1,33 @@
+body
+{
+  background-color: #363636;
+  color: #eeeeee;
+  font-size: 15px;
+}
+
+hr
+{
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 3%;
+}
+
+h1
+{
+  color: #f7f5dd;
+  font-size: 35px;
+  text-shadow: 1px 1px 2px #f7f5dd, 0 0 0.06em #f7f5dd, 0 0 0.06em #f7f5dd;
+}
+
+h2
+{
+  color: #f7f5dd;
+  font-size: 25px;
+}
+
+h3
+{
+  color: #f7f5dd;
+  font-size: 25px;
+}
